@@ -4,3 +4,7 @@ this line was added on the newbranch
 i am adding this line on the newbranch
 hey kids
 i just added the push to github
+i added this line on github like somebody else might
+added another line on github
+third line
+fourth line
