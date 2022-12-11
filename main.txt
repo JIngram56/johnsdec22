@@ -1,6 +1,6 @@
 what happened
 
-this line was added on the newbranch
+this 
 i am adding this line on the newbranch
 hey kids
 i just added the push to github
