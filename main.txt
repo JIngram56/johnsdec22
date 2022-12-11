@@ -3,3 +3,7 @@ what happened
 this line was added on the newbranch
 i am adding this line on the newbranch
 hey kids
+<<<<<<< HEAD
+=======
+i just added the push to github
+>>>>>>> master
